@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://adityamalagi.framer.website](https://adityamalagi.framer.website)
 
-- 💬 Ask me about **Nothing**
-
 - 📫 How to reach me **adityamalagi64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
