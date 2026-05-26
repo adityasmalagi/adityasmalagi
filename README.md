@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya S Malagi</h1>
+<h1 align="center">Hi 👋, I'm Aditya Malagi</h1>
 <h3 align="center">I’m passionate about building at the intersection of hardware design and system-level innovation. My core interests lie in VLSI design, ASIC development, and FPGA-based prototyping—domains where performance, efficiency, and scalability converge.</h3>
 
 - 🌱 I’m currently learning **Arduino And Verilog**
 
-- 👨‍💻 All of my projects are available at [https://adityamalagi.framer.website](https://adityamalagi.framer.website)
+- 👨‍💻 All of my projects are available at [https://adityamalagi.lovable.app/](https://adityamalagi.lovable.app/)
 
 - 📫 How to reach me **adityamalagi64@gmail.com**
 
